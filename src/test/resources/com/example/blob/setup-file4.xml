@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <file id="1" name="test.txt" file="[TEXT]test"></file>
+    <file id="2" name="test2.txt" file="[TEXT]test"></file>
+</dataset>
