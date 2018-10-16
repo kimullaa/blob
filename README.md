@@ -1,2 +1,3 @@
-- �ڑ����DB�͕ύX���Ă�������
-- src/test/resources�z���� large.zip �t�@�C����z�u���Ă�������(�K���ɑ傫�ȃT�C�Y�̃t�@�C���Ō��\�ł�)
+- 接続先のDBは変更してください
+- src/test/resources配下に large.zip ファイルを配置してください(適当に大きなサイズのファイルで結構です)
+  - githubのファイルサイズ上限にひっかかったのでアップロードできませんでした
